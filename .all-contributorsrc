@@ -29,6 +29,21 @@
         "tutorial",
         "userTesting"
       ]
+    },
+    {
+      "login": "phamhong2005",
+      "name": "phamhong2005",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141240190?v=4",
+      "profile": "https://github.com/phamhong2005",
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "business",
+        "code",
+        "security",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -17,7 +17,7 @@ TBD
 ## All Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -31,6 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/manhnd98"><img src="https://avatars.githubusercontent.com/u/64095625?v=4?s=100" width="100px;" alt="Nguyễn Đức Mạnh"/><br /><sub><b>Nguyễn Đức Mạnh</b></sub></a><br /><a href="#blog-manhnd98" title="Blogposts">📝</a> <a href="https://github.com/manhnd98/guestbook/commits?author=manhnd98" title="Code">💻</a> <a href="https://github.com/manhnd98/guestbook/commits?author=manhnd98" title="Documentation">📖</a> <a href="#mentoring-manhnd98" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/manhnd98/guestbook/pulls?q=is%3Apr+reviewed-by%3Amanhnd98" title="Reviewed Pull Requests">👀</a> <a href="#security-manhnd98" title="Security">🛡️</a> <a href="#talk-manhnd98" title="Talks">📢</a> <a href="https://github.com/manhnd98/guestbook/commits?author=manhnd98" title="Tests">⚠️</a> <a href="#tool-manhnd98" title="Tools">🔧</a> <a href="#translation-manhnd98" title="Translation">🌍</a> <a href="#tutorial-manhnd98" title="Tutorials">✅</a> <a href="#userTesting-manhnd98" title="User Testing">📓</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/phamhong2005"><img src="https://avatars.githubusercontent.com/u/141240190?v=4?s=100" width="100px;" alt="phamhong2005"/><br /><sub><b>phamhong2005</b></sub></a><br /><a href="#a11y-phamhong2005" title="Accessibility">️️️️♿️</a> <a href="#blog-phamhong2005" title="Blogposts">📝</a> <a href="https://github.com/manhnd98/guestbook/issues?q=author%3Aphamhong2005" title="Bug reports">🐛</a> <a href="#business-phamhong2005" title="Business development">💼</a> <a href="https://github.com/manhnd98/guestbook/commits?author=phamhong2005" title="Code">💻</a> <a href="#security-phamhong2005" title="Security">🛡️</a> <a href="#talk-phamhong2005" title="Talks">📢</a></td>
     </tr>
   </tbody>
   <tfoot>
