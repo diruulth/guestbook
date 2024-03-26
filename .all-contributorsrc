@@ -9,7 +9,28 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "manhnd98",
+      "name": "Nguyễn Đức Mạnh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64095625?v=4",
+      "profile": "https://github.com/manhnd98",
+      "contributions": [
+        "blog",
+        "code",
+        "doc",
+        "mentoring",
+        "review",
+        "security",
+        "talk",
+        "test",
+        "tool",
+        "translation",
+        "tutorial",
+        "userTesting"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
